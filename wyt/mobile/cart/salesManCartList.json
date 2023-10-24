@@ -1,0 +1,65 @@
+{
+    "code": 1,
+    "data": {
+        "msg": "查询成功",
+        "totalSize": 3,
+        "list": [
+            {
+                "branchId": "1527481572230168577",
+                "storeType": 2,
+                "linkPhone": "18100834512",
+                "count": 1,
+                "branchName": "湖北诺肯药业有限公司111",
+                "storeDisable": false,
+                "sort": "0",
+                "custDisable": false,
+                "custName": "岳阳县柏祥东陵诚信大药房",
+                "isActive": 1,
+                "prodList": [
+                    "https://picsum.photos/200",
+                    "http://t-files-wyc.yun-sk.com/upload%2Fimage%2F20220520%2F16530171128378b9.jpeg"
+                ],
+                "linkMan": "许洪兵",
+                "checkConfig": 1,
+                "custId": "1527486366130896898"
+            },
+            {
+                "branchId": "1527481572230168577",
+                "storeType": 2,
+                "linkPhone": "17150309889",
+                "count": 1,
+                "branchName": "湖北诺肯药业有限公司",
+                "storeDisable": false,
+                "sort": "0",
+                "custDisable": false,
+                "custName": "老百姓药店",
+                "isActive": 1,
+                "prodList": [
+                    "http://t-files-wyc.yun-sk.com/upload%2Fimage%2F20220520%2F16530171128378b9.jpeg"
+                ],
+                "linkMan": "老百姓",
+                "checkConfig": 1,
+                "custId": "1527841477513277441"
+            },
+            {
+                "branchId": "1527481572230168577",
+                "storeType": 2,
+                "linkPhone": "17150309887",
+                "count": 1,
+                "branchName": "湖北诺肯药业有限公司",
+                "storeDisable": false,
+                "sort": "0",
+                "custDisable": false,
+                "custName": "达维康药店",
+                "isActive": 1,
+                "prodList": [
+                    "http://t-files-wyc.yun-sk.com/upload%2Fimage%2F20220520%2F16530171128378b9.jpeg"
+                ],
+                "linkMan": "达维康",
+                "checkConfig": 1,
+                "custId": "1527178571208720386"
+            }
+        ],
+        "isCanGoNext": false
+    }
+}

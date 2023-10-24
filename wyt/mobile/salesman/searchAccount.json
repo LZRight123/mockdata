@@ -1,0 +1,28 @@
+{
+    "code": 1,
+    "data": {
+        "totalSize": 1,
+        "salesManCustList": [
+            {
+                "branchId": "",
+                "consigneeAdd": "",
+                "custId": "1518523346398740482",
+                "custName": "彭章君测试药店",
+                "danwBh": "123",
+                "danwNm": "123",
+                "distance": "123",
+                "isExistLevelTwo": null,
+                "kpyLinkphone": "15271327766",
+                "kpyName": "彭章君",
+                "latitude": null,
+                "longitude": null,
+                "linkMan": "彭章君",
+                "linkPhone": "15271327766",
+                "custFlag": 0,
+                "keyword": ""
+            }
+        ],
+        "isCanGoNext": false
+    },
+    "msg": "查询成功"
+}

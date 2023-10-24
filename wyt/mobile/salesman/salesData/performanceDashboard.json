@@ -1,0 +1,11 @@
+{
+  "code": 1,
+  "msg": "查询成功",
+  "data": {
+    "salesAmount": "10",
+    "salesAmountRate": "较以前29%",
+    "orderNum": 18,
+    "orderNumRate": "较以前29%",
+    "url": "https://liangmc.com"
+  }
+}

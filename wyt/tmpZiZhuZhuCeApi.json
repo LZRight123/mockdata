@@ -1,0 +1,49 @@
+{
+    "code": 1,
+    "data": {
+        "tmpIsTiYanUser": true,
+      "loginSaveError": 11,
+      "success": false,
+      "supAccountId": 470,
+      "message": "该账号拥有多个团队，请选择其中一个团队进行登录",
+      "supplierMapDataList": [
+        {
+          "supplierName": "张东的测试省级团队",
+          "supplierCategory": "2",
+          "supplierId": "176",
+          "supUserId": 9414,
+          "storeList": [
+            {
+              "branchId": "1648535344419270657",
+              "shortName": "四川蜀康",
+              "branchName": "四川蜀康",
+              "linkPhone": "13251233212",
+              "linkMan": "四川蜀康",
+              "postageNotes": null,
+              "storeType": 1,
+              "openErp": 1
+            }
+          ]
+        },
+        {
+          "supplierName": "张东的测试厂家团队",
+          "supplierCategory": "1",
+          "supplierId": "171",
+          "supUserId": 9415,
+          "storeList": [
+            {
+              "branchId": "1579015515311915010",
+              "shortName": "张东的测试厂家",
+              "branchName": "张东的测试厂家",
+              "linkPhone": "15527815808",
+              "linkMan": "张东",
+              "postageNotes": null,
+              "storeType": 1,
+              "openErp": 1
+            }
+          ]
+        }
+      ]
+    },
+    "msg": "该账号拥有多个团队，请选择其中一个团队进行登录"
+  }

@@ -1,0 +1,25 @@
+{
+  "code": 1,
+  "msg": "查询成功",
+  "data": {
+    "messageInfoVos": [
+      {
+        "messageId": "id",
+        "messageType": "1",
+        "messageContent": "这是一个预警消息",
+        "url": "https://liangmc.com",
+        "prodNo": "string",
+        "batch": "string"
+      },
+      {
+        "messageId": "id",
+        "messageType": "2",
+        "messageContent": "这是第二条预警消息",
+        "url": "https://liangmc.com",
+        "prodNo": "string",
+        "batch": "string"
+      }
+    ],
+    "total": 2
+  }
+}

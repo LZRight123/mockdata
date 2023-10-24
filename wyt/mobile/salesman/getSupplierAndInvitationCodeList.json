@@ -1,0 +1,20 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "supplierName": "汪崇虎的团队",
+            "supplierCategory": 2,
+            "supplierId": 136,
+            "supUserId": 9145,
+            "invitationCode": "HTPJR"
+        },
+        {
+            "supplierName": "lz虎的团队",
+            "supplierCategory": 2,
+            "supplierId": 137,
+            "supUserId": 9145,
+            "invitationCode": "HTPTR"
+        }
+    ],
+    "msg": "查询成功"
+}

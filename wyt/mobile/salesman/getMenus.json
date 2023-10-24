@@ -1,0 +1,43 @@
+{
+    "code": 1,
+    "data": {
+        "menuList": [
+            {
+                "id": 1,
+                "pic": "https://d-wyt.yun-sk.com/images/appMenu/ic-wdkh@3x.png",
+                "text": "我的客户",
+                "url": "gongyingshang://activity/myCustomersByExternal",
+                "cornerMark": ""
+            },
+            {
+                "id": 2,
+                "pic": "https://d-wyt.yun-sk.com/images/appMenu/ic-phkb@3x.png",
+                "text": "铺货看板",
+                "url": "gongyingshang://activity/searchproductsofdistributionlist",
+                "cornerMark": ""
+            },
+            {
+                "id": 4,
+                "pic": "https://d-wyt.yun-sk.com/images/appMenu/ic-khdt@3x.png",
+                "text": "客户地图",
+                "url": "gongyingshang://activity/newCustMap",
+                "cornerMark": ""
+            },
+            {
+                "id": 5,
+                "pic": "https://d-wyt.yun-sk.com/images/appMenu/ic-xsxm@3x.png",
+                "text": "学术项目",
+                "url": "gongyingshang://activity/science",
+                "cornerMark": ""
+            },
+            {
+                "id": 6,
+                "pic": "https://d-wyt.yun-sk.com/images/appMenu/ic-xsxm@3x.png",
+                "text": "分享报单",
+                "url": "gongyingshang://activity/reportOrderPage",
+                "cornerMark": ""
+            }
+        ]
+    },
+    "msg": "查询成功"
+}

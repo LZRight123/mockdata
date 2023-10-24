@@ -1,0 +1,12 @@
+{
+    "data": {
+        "size": 37430360,
+        "url": "http://t-files-wyt.yun-sk.com/pub-download/wyt-android-dev.apk",
+        "versionCode": 65200,
+        "versionName": "6.52.0",
+        "isMustUpdate": false,
+        "versionDescription": "1、优化了用户体验\n2、修复了部分已知问题"
+    },
+    "msg": "Request success",
+    "status": 1
+}

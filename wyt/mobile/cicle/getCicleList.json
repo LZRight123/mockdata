@@ -1,0 +1,41 @@
+{
+    "code": 1,
+    "data": {
+      "totalSize": 1,
+      "success": true,
+      "roleType": 4,
+      "message": "查询成功",
+      "isCanGoNext": false,
+      "cicleList": [
+        {
+          "bizId": 5,
+          "isMySmile": true,
+          "smileCount": 2,
+          "commentCount": 0,
+          "replyCount": 0,
+          "userPic": null,
+          "userName": "万有钢",
+          "userDept": "云联全国招商",
+          "custName": "湖南镇仙宅村卫生所",
+          "cicleTime": "2023-09-14 12:58",
+          "labelList": [
+            {
+              "label": "备注",
+              "value": "去湖南世东医药开招商会",
+              "type": "InputTextType"
+            }
+          ],
+          "picList": [
+            "http://files-wyt.yun-sk.com/static/images/upload/20230914/湖南镇仙宅村卫生所-万有钢-进店拍照-20230914125754650e7c.jpg",
+            "https://files-wyt.yun-sk.com/static/images/upload/20230914/湖南镇仙宅村卫生所-万有钢-进店拍照-20230914125754650e7c.jpg"
+          ],
+          "custType": "",
+          "bizType": 1,
+          "isConver": false,
+          "tempVisit": true,
+          "title": ""
+        }
+      ]
+    },
+    "msg": "查询成功"
+  }

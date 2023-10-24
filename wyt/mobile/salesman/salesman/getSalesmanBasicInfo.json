@@ -1,0 +1,137 @@
+{
+    "code": 1,
+    "data": {
+        "supUserId": "7",
+        "loginName": "15271327766",
+        "linkMan": "梁泽222",
+        "linkPhone": "15271327766",
+        "supplierId": "1",
+        "supplierName": "湖南省团队",
+        "coreSupplierName": null,
+        "deviceUnauthorized": false,
+        "flowAccount": null,
+        "innerAccountFlag": 1,
+        "erpUserBranchName": null,
+        "erpUserBranchId": null,
+        "isEidtOrderPrice": null,
+        "isResponsiblePerson": 0,
+        "reportScope": null,
+        "auditOrderFlag": 1,
+        "branchList": null,
+        "contactData": [
+            {
+                "phone": "13658020789",
+                "name": "虫不知"
+            },
+            {
+                "phone": "13658020789",
+                "name": "阳桑"
+            }
+        ],
+        "ywyResourceList": [
+            {
+                "id": "31",
+                "text": "工作管理",
+                "url": "",
+                "note": null,
+                "path": "",
+                "code": "",
+                "children": [
+                    {
+                        "id": "32",
+                        "text": "新成员审核",
+                        "url": "NewUserAudit",
+                        "note": null,
+                        "path": null,
+                        "code": ""
+                    }
+                ]
+            },
+            {
+                "id": "33",
+                "text": "订单管理",
+                "url": "",
+                "note": null,
+                "path": "",
+                "code": "",
+                "children": [
+                    {
+                        "id": "34",
+                        "text": "订单审核",
+                        "url": "OrderReview",
+                        "note": null,
+                        "path": null,
+                        "code": ""
+                    },
+                    {
+                        "id": "36",
+                        "text": "业务员订单汇总",
+                        "url": "SalesQuery",
+                        "note": null,
+                        "path": "",
+                        "code": ""
+                    }
+                ]
+            },
+            {
+                "id": "34",
+                "text": "我的管理",
+                "url": "",
+                "note": null,
+                "path": "",
+                "code": "",
+                "children": [
+                    {
+                        "id": "3200",
+                        "text": "拜访",
+                        "url": "gongyingshang://activity/customerVisit",
+                        "note": null,
+                        "path": null,
+                        "code": ""
+                    }
+                ]
+            }
+        ],
+        "isBindMultiAccount": true,
+        "message": "获取数据成功",
+        "success": true,
+        "openAccountFlag": 1,
+        "innerErpBranchId": null,
+        "innerErpBranchName": null,
+        "ywqResourceList": [],
+        "roleType": 4,
+        "erpUserState": null,
+        "erpUserMsg": null,
+        "erpUserId": null,
+        "erpUserLoginName": null,
+        "isBindingCustRelation": true,
+        "invitationCode": "LJ66R",
+        "isExportAccount": false,
+        "storeList": [
+            {
+                "branchId": "1527186664760016898",
+                "shortName": "同仁堂药业",
+                "branchName": "同仁堂药业",
+                "linkPhone": "17150309888",
+                "linkMan": "同仁堂",
+                "postageNotes": null,
+                "storeType": 1,
+                "openErp": 1
+            }
+        ],
+        "branchAdmin": "maoyangsheng",
+        "organizationLevel": "普通业务员",
+        "department": "无",
+        "salesmanType": 0,
+        "salesmanTypeStr": "",
+        "registrationMethod": "邀请码注册",
+        "registrationTime": "2022-05-19 18:47:36",
+        "inviterAccount": "maoyangshenginfo",
+        "loginSaveError": null,
+        "pwdLevel": 1,
+        "isSignInOpen": false,
+        "integralVal": 0,
+        "haveVisistOrganization": true
+    },
+    "msg": "获取数据成功"
+}

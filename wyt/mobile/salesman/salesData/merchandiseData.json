@@ -1,0 +1,66 @@
+{
+  "code": 1,
+  "data": {
+    "totalSize": 2,
+    "rateDesc": "较前20%",
+    "totalSalesNum": 14,
+    "list": [
+      {
+        "prodNo": "1562284975066804227",
+        "prodName": "检查手套 (科美丽康)",
+        "salesNum": 1,
+        "salesAmount": 400.0
+      },
+      {
+        "prodNo": "1562284975066804227",
+        "prodName": "检查手套 (科美丽康)",
+        "salesNum": 1,
+        "salesAmount": 400.0
+      },
+      {
+        "prodNo": "1562284975066804227",
+        "prodName": "检查手套 (科美丽康)",
+        "salesNum": 1,
+        "salesAmount": 400.0
+      },
+      {
+        "prodNo": "1562284975066804227",
+        "prodName": "检查手套 (科美丽康)",
+        "salesNum": 1,
+        "salesAmount": 400.0
+      },
+      {
+        "prodNo": "1562284975066804227",
+        "prodName": "检查手套 (科美丽康)",
+        "salesNum": 1,
+        "salesAmount": 400.0
+      },
+      {
+        "prodNo": "1651524807251722242",
+        "prodName": "谷维素片",
+        "salesNum": 6,
+        "salesAmount": 60.0
+      },
+      {
+        "prodNo": "1651524803506208770",
+        "prodName": "重感灵片 (益尔)",
+        "salesNum": 4,
+        "salesAmount": 40.0
+      },
+      {
+        "prodNo": "1599656829301387267",
+        "prodName": "肺宁颗粒 (正药)",
+        "salesNum": 1,
+        "salesAmount": 19.9
+      },
+      {
+        "prodNo": "1588067327013384195",
+        "prodName": "小儿肺咳颗粒 (喜仔)",
+        "salesNum": 1,
+        "salesAmount": 1.0
+      }
+    ],
+    "isCanGoNext": true
+  },
+  "msg": "查询成功"
+}

@@ -1,0 +1,26 @@
+{
+    "code": 1,
+    "data": {
+        "bannerList": [
+            {
+                "activityId": null,
+                "title": "测试",
+                "bannerUrl": "http://t-files-wyt.yun-sk.com/static%2Fimages%2Fupload%2FslideshowConfig%2F20220520%2F1653044099209dd7.png",
+                "activityUrl": "https://www.baidu.com",
+                "activityType": "1",
+                "slideConfigId": 2,
+                "sort": null
+            },
+            {
+                "activityId": null,
+                "title": "品质保证，优惠更多",
+                "bannerUrl": "http://t-files-wyt.yun-sk.com/static%2Fimages%2Fupload%2FslideshowConfig%2F20220520%2F1653034212864b62.png",
+                "activityUrl": "https://www.baidu.com",
+                "activityType": "1",
+                "slideConfigId": 1,
+                "sort": 12
+            }
+        ]
+    },
+    "msg": ""
+}

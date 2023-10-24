@@ -1,0 +1,50 @@
+{
+  "code": 1,
+  "msg": "查询成功",
+  "data": {
+    "supplierInfoVos": [
+      {
+        "supplierName": "张东的测试省级团队",
+        "supplierCategory": "2",
+        "supplierId": "176",
+        "supUserId": 9414
+      },
+      {
+        "supplierName": "张东的测试厂家团队",
+        "supplierCategory": "1",
+        "supplierId": "171",
+        "supUserId": 9415
+      },
+      {
+        "supplierName": "汪崇虎的团队",
+        "supplierCategory": "4",
+        "supplierId": "136",
+        "supUserId": 9426
+      },
+      {
+        "supplierName": "葵花药业",
+        "supplierCategory": "2",
+        "supplierId": "134",
+        "supUserId": 9427
+      },
+      {
+        "supplierName": "张东的测试共享团队",
+        "supplierCategory": "3",
+        "supplierId": "195",
+        "supUserId": 9503
+      },
+      {
+        "supplierName": "张东的测试共享团队2",
+        "supplierCategory": "3",
+        "supplierId": "196",
+        "supUserId": 9511
+      },
+      {
+        "supplierName": "河北团队",
+        "supplierCategory": "2",
+        "supplierId": "192",
+        "supUserId": 11588
+      }
+    ]
+  }
+}

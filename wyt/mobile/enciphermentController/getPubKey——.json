@@ -1,0 +1,18 @@
+{
+    "code": 1,
+    "data": {
+        "pubKey": "1231",
+        "sub": {
+            "sub": "123"
+        },
+        "subList": [
+            {
+                "listkey": "2"
+            },
+            {
+                "listkey": "3"
+            }
+        ]
+    },
+    "msg": "查询成功"
+}

@@ -1,0 +1,27 @@
+{
+  "code": 1,
+  "data": {
+    "totalSize": 10,
+    "rateDesc": "较前50%",
+    "list": [
+      {
+        "supplierId": 176,
+        "structureId": null,
+        "custName": "客户名称",
+        "prodNum": 4,
+        "salesNum": 4,
+        "salesAmount": 421.9
+      },
+      {
+        "supplierId": 192,
+        "structureId": null,
+        "custName": "客户名称2",
+        "prodNum": 2,
+        "salesNum": 10,
+        "salesAmount": 100.0
+      }
+    ],
+    "isCanGoNext": false
+  },
+  "msg": "查询成功"
+}
